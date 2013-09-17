@@ -10,7 +10,7 @@
 #include <math.h>
 #include "mpi.h"
 
-#include "primme.h"
+#include <primme.h>
 
 #define MASTER 0
 #define REPETITIONS 10
